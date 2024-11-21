@@ -11,7 +11,7 @@ Egyszerű konzolos kvíz alkalmazás Python nyelven, számítástechnikai témá
 - 📊 Azonnali pontozás és visszajelzés
 - 💾 Bővíthető kérdés adatbázis
 - 🖥️ Számítástechnikai témájú kérdések
-- 📝 Magyar nyelvű felhasználói felület
+- 📝 Angol nyelvű felhasználói felület
 
 ## 🚀 Telepítés
 
