@@ -16,7 +16,7 @@ Egyszerű konzolos kvíz alkalmazás Python nyelven, számítástechnikai témá
 ## 🚀 Telepítés
 
 ```bash
-git clone https://github.com/yourusername/tech-quiz-app.git
+git clone https://github.com/namezor90/Quiz_Game.git
 cd tech-quiz-app
 python main.py
 ```
